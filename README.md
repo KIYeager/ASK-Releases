@@ -4,6 +4,8 @@ ASK Desktop ist die Windows-App der TF Bern für ASK: Man beschreibt einen Auftr
 
 Hier liegen nur die fertigen Versionen zum Herunterladen.
 
+**[Zur Download-Seite](https://kiyeager.github.io/ASK-Releases/)**: neueste Version, was neu ist, und eine Anleitung mit Bildern.
+
 ## Installieren
 
 1. [ASK-Setup.exe herunterladen](https://github.com/KIYeager/ASK-Releases/releases/latest/download/ASK-Setup.exe)
@@ -19,3 +21,5 @@ Danach aktualisiert sich ASK selbst: Gibt es eine neue Version, fragt die App, o
 ## Alle Versionen
 
 Unter [Releases](https://github.com/KIYeager/ASK-Releases/releases). Versionen mit «Pre-release» sind Beta-Versionen zum Testen.
+
+Die Datei `docs/index.html` ist die Download-Seite. Sie wird bei jeder neuen Version automatisch ersetzt; Änderungen von Hand gehen dabei verloren.
